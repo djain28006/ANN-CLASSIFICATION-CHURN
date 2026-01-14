@@ -1,0 +1,4 @@
+logs/
+venv/
+Churn_Modelling.csv
+find_churn_gender.py
